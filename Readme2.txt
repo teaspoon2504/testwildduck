@@ -3,4 +3,9 @@ Jajal
 
 sudah di edit 
 
+<<<<<<< HEAD
 telek jaran
+=======
+
+dudu telek kuda
+>>>>>>> origin/master
