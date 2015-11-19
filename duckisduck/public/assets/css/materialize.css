@@ -754,10 +754,10 @@
   color: #80cbc4 !important; }
 
 .teal.lighten-2 {
-  background-color: #4db6ac !important; }
+  background-color: #ec407a !important; }
 
 .teal-text.text-lighten-2 {
-  color: #4db6ac !important; }
+  color: #ec407a !important; }
 
 .teal.lighten-1 {
   background-color: #26a69a !important; }
@@ -766,7 +766,7 @@
   color: #26a69a !important; }
 
 .teal {
-  background-color: #009688 !important; }
+  background-color: #ec407a !important; }
 
 .teal-text {
   color: #009688 !important; }
@@ -6001,7 +6001,7 @@ small {
 .btn, .btn-large {
   text-decoration: none;
   color: #fff;
-  background-color: #26a69a;
+  background-color: #ec407a;
   text-align: center;
   letter-spacing: .5px;
   -webkit-transition: .2s ease-out;

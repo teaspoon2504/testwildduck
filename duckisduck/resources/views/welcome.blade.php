@@ -35,7 +35,7 @@
           <h5 class="header col s12 light">Wanita hebat untuk Indonesia hebat</h5>
         </div>
         <div class="row center">
-          <a href="http://materializecss.com/getting-started.html" id="download-button" class="btn-large waves-effect waves-light teal lighten-1">Mulai</a>
+          <a href="{{URL::to('login')}}" id="download-button" class="btn-large waves-effect waves-light teal lighten-1">Mulai</a>
         </div>
         <br><br>
 
